@@ -1,0 +1,21 @@
+.one{
+   display: flex;
+   margin: 20px;
+   background-color: antiquewhite;   
+   justify-content: space-between;
+}
+
+.pic{
+    width: 200px;
+    height: 200px;
+}
+.main{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+}
+.child{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+}
